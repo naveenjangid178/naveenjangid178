@@ -130,7 +130,7 @@ My current engineering interests sit at the intersection of **AI/LLMs, Python, s
       srcset="https://raw.githubusercontent.com/naveenjangid178/github-snake/output/github-snake-dark.svg"
     />
     <source
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/naveenjangid178/github-snake/output/github-snake.svg"
     />
     <img
